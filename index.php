@@ -39,7 +39,7 @@ $error = "Usuario no encontrado";
 </head>
 <body>
 <div class="card">
-<h2>Iniciar Sesión</h2>
+<h2>Iniciar Sesión </h2>
 <form method="POST" id="loginForm">
 <input type="text" name="usuario" placeholder="Usuario" required>
 <input type="password" name="clave" placeholder="Contraseña" required>
